@@ -1,0 +1,3 @@
+write the following in command prompt:
+pip install requests
+pip install pywin32
